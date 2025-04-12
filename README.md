@@ -25,7 +25,6 @@ A modern URL Shortening application built with Next.js, featuring authentication
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd my-app
 ```
 
 2. Install dependencies:
