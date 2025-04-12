@@ -1,11 +1,12 @@
 # BitPulse
 
-A modern web application built with Next.js, featuring authentication, QR code generation, and data visualization capabilities.
+A modern URL Shortening application built with Next.js, featuring authentication, QR code generation, and data visualization capabilities.
 
 ## 🚀 Features
 
 - Next.js 15 with App Router
 - Authentication with NextAuth.js
+- URL shortening service
 - MongoDB integration with Mongoose
 - QR Code generation
 - Data visualization with Recharts
